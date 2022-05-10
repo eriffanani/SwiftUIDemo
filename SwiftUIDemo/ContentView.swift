@@ -17,7 +17,7 @@ struct ContentView: View {
             Button("Submit") {
             }
             .background(Color.blue)
-            .foregroundColor(.white)
+            .foregroundColor(.red)
             .clipShape(Capsule())
         }
     }
